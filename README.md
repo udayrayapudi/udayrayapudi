@@ -5,10 +5,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Building full-stack applications with real-world use cases  
-- 🤖 Exploring AI, Machine Learning & Large Language Models (LLMs)  
-- 🌱 Currently learning **LLMs and AWS Cloud**  
-- 💬 Ask me about **React, Node.js, Python, ML, APIs**  
+- 🔭 Building end-to-end full-stack applications with real-world use cases  
+- 🤖 Exploring AI, Machine Learning, and Large Language Models (LLMs)  
+- 🌱 Currently learning **AWS Cloud and scalable AI/ML systems**  
+- 💬 Ask me about **React, Node.js, Python, REST APIs, and ML integration**  
 - 📫 Reach me at **udayrayapudi999@gmail.com**
 
 ---
@@ -29,12 +29,17 @@
 ### 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,nodejs,flask,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap,react,nodejs,flask" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,git,github" />
 </p>
 
 ---
@@ -42,21 +47,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=udayrayapudi&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" />
 </p>
