@@ -47,6 +47,6 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default&langs_count=6&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default&hide_border=false"/>
 </p>
