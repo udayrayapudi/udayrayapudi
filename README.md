@@ -47,11 +47,5 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udayrayapudi&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udayrayapudi&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udayrayapudi&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udayrayapudi&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" width="100%" />
 </p>
