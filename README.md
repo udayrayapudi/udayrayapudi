@@ -16,7 +16,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/udayrayapudi/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 <a href="mailto:udayrayapudi999@gmail.com">
@@ -44,10 +44,9 @@
 
 ---
 
-
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" height="170"/>
 </p>
