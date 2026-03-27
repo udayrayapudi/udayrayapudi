@@ -43,12 +43,15 @@
 </p>
 
 ---
+
 ### 📊 GitHub Activity
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" width="45%" />
-</p>
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between;">
 
-<p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" width="45%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=udayrayapudi&show_icons=true&theme=default" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" width="100%" />
+
+</div>
