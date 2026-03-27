@@ -43,15 +43,12 @@
 </p>
 
 ---
-
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=udayrayapudi&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=udayrayapudi&theme=default" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayrayapudi&layout=compact&theme=default" width="45%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=udayrayapudi&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=udayrayapudi&theme=default" />
+<p>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=udayrayapudi&theme=default" width="45%" />
 </p>
